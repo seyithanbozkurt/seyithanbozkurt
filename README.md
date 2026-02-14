@@ -51,5 +51,5 @@ DevOps & Tools:
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/seyithanbozkurt/seyithanbozkurt/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/seyithanbozkurt/output/github-contribution-grid-snake.svg" />
 </p>
